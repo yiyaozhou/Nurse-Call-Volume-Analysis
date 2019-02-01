@@ -1,5 +1,5 @@
 # Nurse Call Volume Analysis
-This repository includes sample code and output.
+This repository includes SQL query, R code for visualization and modeling.
 
 * Problem: What is the nurse call volume pattern in a hospital? - from the perspective of an app development company focusing on hospital communication 
 * Findings: 
